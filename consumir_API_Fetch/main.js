@@ -1,5 +1,3 @@
-console.log("Ingresa primer ves")
-
 const URL= 'https://api.thecatapi.com/v1/images/search'
 
 fetch(URL) //promesa

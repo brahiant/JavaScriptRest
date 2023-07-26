@@ -1,5 +1,3 @@
-console.log("Ingresa primer ves")
-
 const API_URL= 'https://api.thecatapi.com/v1/images/search'
 
 async function reload(){
